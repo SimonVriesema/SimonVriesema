@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Simon Vriesema
 
-🎓 Recently graduated in Software Engineering (HBO-ICT)  
-💻 Junior Developer with a passion for backend development
-📍 Based in Amsterdam, the Netherlands
+- 🎓 Recently graduated in Software Engineering (HBO-ICT)  
+- 💻 Junior Developer with a passion for backend development
+- 📍 Based in Amsterdam, the Netherlands
 
 ## 🚀 Skills & Tech
 
